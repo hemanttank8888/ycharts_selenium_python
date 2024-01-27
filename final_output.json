@@ -1,0 +1,360 @@
+{
+    "AAPL": [
+        {
+            "current_year_months": "2021-06",
+            "revenues": "24.79%"
+        },
+        {
+            "current_year_months": "2021-09",
+            "revenues": "20.44%"
+        },
+        {
+            "current_year_months": "2021-12",
+            "revenues": "3.86%"
+        },
+        {
+            "current_year_months": "2022-03",
+            "revenues": "6.24%"
+        },
+        {
+            "current_year_months": "2022-06",
+            "revenues": "1.94%"
+        },
+        {
+            "current_year_months": "2022-09",
+            "revenues": "8.02%"
+        },
+        {
+            "current_year_months": "2022-12",
+            "revenues": "-4.13%"
+        },
+        {
+            "current_year_months": "2023-03",
+            "revenues": "-3.40%"
+        },
+        {
+            "current_year_months": "2019-06",
+            "revenues": "2.25%"
+        },
+        {
+            "current_year_months": "2019-09",
+            "revenues": "2.35%"
+        },
+        {
+            "current_year_months": "2019-12",
+            "revenues": "8.27%"
+        },
+        {
+            "current_year_months": "2020-03",
+            "revenues": "-0.69%"
+        },
+        {
+            "current_year_months": "2020-06",
+            "revenues": "10.19%"
+        },
+        {
+            "current_year_months": "2020-09",
+            "revenues": "0.71%"
+        },
+        {
+            "current_year_months": "2020-12",
+            "revenues": "18.57%"
+        },
+        {
+            "current_year_months": "2021-03",
+            "revenues": "43.30%"
+        },
+        {
+            "current_year_months": "2017-06",
+            "revenues": "6.35%"
+        },
+        {
+            "current_year_months": "2017-09",
+            "revenues": "12.43%"
+        },
+        {
+            "current_year_months": "2017-12",
+            "revenues": "12.88%"
+        },
+        {
+            "current_year_months": "2018-03",
+            "revenues": "16.75%"
+        },
+        {
+            "current_year_months": "2018-06",
+            "revenues": "17.64%"
+        },
+        {
+            "current_year_months": "2018-09",
+            "revenues": "18.89%"
+        },
+        {
+            "current_year_months": "2018-12",
+            "revenues": "-3.87%"
+        },
+        {
+            "current_year_months": "2019-03",
+            "revenues": "-4.03%"
+        },
+        {
+            "current_year_months": "2015-06",
+            "revenues": "31.84%"
+        },
+        {
+            "current_year_months": "2015-09",
+            "revenues": "18.53%"
+        },
+        {
+            "current_year_months": "2015-12",
+            "revenues": "1.32%"
+        },
+        {
+            "current_year_months": "2016-03",
+            "revenues": "-10.82%"
+        },
+        {
+            "current_year_months": "2016-06",
+            "revenues": "-12.27%"
+        },
+        {
+            "current_year_months": "2016-09",
+            "revenues": "-6.18%"
+        },
+        {
+            "current_year_months": "2016-12",
+            "revenues": "6.00%"
+        },
+        {
+            "current_year_months": "2017-03",
+            "revenues": "5.45%"
+        }
+    ],
+    "PAG": [
+        {
+            "current_year_months": "2021-06",
+            "revenues": "87.36%"
+        },
+        {
+            "current_year_months": "2021-09",
+            "revenues": "6.31%"
+        },
+        {
+            "current_year_months": "2021-12",
+            "revenues": "4.14%"
+        },
+        {
+            "current_year_months": "2022-03",
+            "revenues": "18.17%"
+        },
+        {
+            "current_year_months": "2022-06",
+            "revenues": "-2.32%"
+        },
+        {
+            "current_year_months": "2022-09",
+            "revenues": "7.54%"
+        },
+        {
+            "current_year_months": "2022-12",
+            "revenues": "13.91%"
+        },
+        {
+            "current_year_months": "2023-03",
+            "revenues": "5.97%"
+        },
+        {
+            "current_year_months": "2019-06",
+            "revenues": "-3.22%"
+        },
+        {
+            "current_year_months": "2019-09",
+            "revenues": "6.07%"
+        },
+        {
+            "current_year_months": "2019-12",
+            "revenues": "8.51%"
+        },
+        {
+            "current_year_months": "2020-03",
+            "revenues": "-10.20%"
+        },
+        {
+            "current_year_months": "2020-06",
+            "revenues": "-36.62%"
+        },
+        {
+            "current_year_months": "2020-09",
+            "revenues": "-1.62%"
+        },
+        {
+            "current_year_months": "2020-12",
+            "revenues": "-2.22%"
+        },
+        {
+            "current_year_months": "2021-03",
+            "revenues": "14.84%"
+        },
+        {
+            "current_year_months": "2017-06",
+            "revenues": "1.86%"
+        },
+        {
+            "current_year_months": "2017-09",
+            "revenues": "6.67%"
+        },
+        {
+            "current_year_months": "2017-12",
+            "revenues": "10.32%"
+        },
+        {
+            "current_year_months": "2018-03",
+            "revenues": "13.37%"
+        },
+        {
+            "current_year_months": "2018-06",
+            "revenues": "10.61%"
+        },
+        {
+            "current_year_months": "2018-09",
+            "revenues": "2.22%"
+        },
+        {
+            "current_year_months": "2018-12",
+            "revenues": "0.90%"
+        },
+        {
+            "current_year_months": "2019-03",
+            "revenues": "-3.47%"
+        },
+        {
+            "current_year_months": "2015-06",
+            "revenues": "12.75%"
+        },
+        {
+            "current_year_months": "2015-09",
+            "revenues": "12.85%"
+        },
+        {
+            "current_year_months": "2015-12",
+            "revenues": "11.65%"
+        },
+        {
+            "current_year_months": "2016-03",
+            "revenues": "8.11%"
+        },
+        {
+            "current_year_months": "2016-06",
+            "revenues": "7.01%"
+        },
+        {
+            "current_year_months": "2016-09",
+            "revenues": "4.18%"
+        },
+        {
+            "current_year_months": "2016-12",
+            "revenues": "-1.04%"
+        },
+        {
+            "current_year_months": "2017-03",
+            "revenues": "5.02%"
+        }
+    ],
+    "FSLY": [
+        {
+            "current_year_months": "2021-06",
+            "revenues": "35.77%"
+        },
+        {
+            "current_year_months": "2021-09",
+            "revenues": "40.80%"
+        },
+        {
+            "current_year_months": "2021-12",
+            "revenues": "42.04%"
+        },
+        {
+            "current_year_months": "2022-03",
+            "revenues": "43.80%"
+        },
+        {
+            "current_year_months": "2022-06",
+            "revenues": "40.04%"
+        },
+        {
+            "current_year_months": "2022-09",
+            "revenues": "35.35%"
+        },
+        {
+            "current_year_months": "2022-12",
+            "revenues": "18.34%"
+        },
+        {
+            "current_year_months": "2023-03",
+            "revenues": "6.30%"
+        },
+        {
+            "current_year_months": "2019-06",
+            "revenues": "32.42%"
+        },
+        {
+            "current_year_months": "2019-09",
+            "revenues": "33.40%"
+        },
+        {
+            "current_year_months": "2019-12",
+            "revenues": "44.15%"
+        },
+        {
+            "current_year_months": "2020-03",
+            "revenues": "38.27%"
+        },
+        {
+            "current_year_months": "2020-06",
+            "revenues": "42.88%"
+        },
+        {
+            "current_year_months": "2020-09",
+            "revenues": "31.40%"
+        },
+        {
+            "current_year_months": "2020-12",
+            "revenues": "32.22%"
+        },
+        {
+            "current_year_months": "2021-03",
+            "revenues": "37.52%"
+        },
+        {
+            "current_year_months": "2019-03",
+            "revenues": "28.17%"
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        },
+        {
+            "current_year_months": null,
+            "revenues": null
+        }
+    ]
+}
